@@ -27,4 +27,16 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-61252bb403f74c168593c090c9d00b3e.xml#id-61252bb403f74c168593c090c9d00b3e"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5c2a59eb6c6f498b94403a5b10eb346c">
+    <bounds
+        x="88"
+        y="371"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-1b7949c56dbe4baeb595cc663bb3b688.xml#id-1b7949c56dbe4baeb595cc663bb3b688"/>
+  </children>
 </archimate:ArchimateDiagramModel>
