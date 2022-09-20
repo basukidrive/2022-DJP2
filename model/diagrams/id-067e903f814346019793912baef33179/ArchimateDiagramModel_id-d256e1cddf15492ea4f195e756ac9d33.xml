@@ -1,0 +1,54 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Concept Diagram"
+    id="id-d256e1cddf15492ea4f195e756ac9d33">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b9b778aaceb7442089bac81775329414"
+      textAlignment="1">
+    <bounds
+        x="132"
+        y="264"
+        width="445"
+        height="181"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-dcc7d6a5bd524ebfb56f113730738d40">
+      <bounds
+          x="12"
+          y="48"
+          width="157"
+          height="85"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-ee3779d2f0064bedbc1d2d9520a6148a.xml#id-ee3779d2f0064bedbc1d2d9520a6148a"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-c1da5d9e82284690bcb5e9c8485ecd30.xml#id-c1da5d9e82284690bcb5e9c8485ecd30"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-53fabbb60bf64ce28c596a4a6cb17113"
+      name="Front Office"
+      textAlignment="1">
+    <bounds
+        x="132"
+        y="84"
+        width="445"
+        height="169"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-62a2c0e39f9b4c84b9c6077ef5ff0444">
+      <bounds
+          x="24"
+          y="48"
+          width="145"
+          height="85"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-34570aa5501b4e5c8b8e827176809018.xml#id-34570aa5501b4e5c8b8e827176809018"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
