@@ -468,7 +468,7 @@
       <bounds
           x="12"
           y="24"
-          width="109"
+          width="133"
           height="37"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
@@ -478,9 +478,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-961532e62ed245119fc885f78a05c3ae">
       <bounds
-          x="144"
+          x="156"
           y="24"
-          width="109"
+          width="97"
           height="37"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
