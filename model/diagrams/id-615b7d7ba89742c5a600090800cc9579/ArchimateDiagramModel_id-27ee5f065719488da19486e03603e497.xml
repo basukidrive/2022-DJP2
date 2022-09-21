@@ -251,7 +251,7 @@
         id="id-8c668216721f4b609083b05ee7138d3d"
         targetConnections="id-bab03b5b643c4a41a826ea81e0f3597f">
       <bounds
-          x="168"
+          x="72"
           y="36"
           width="121"
           height="55"/>
@@ -264,7 +264,7 @@
         id="id-28849c58bb7043cf8e56b4266b740394"
         targetConnections="id-8c2ea46a32fa4716aae04b79f99f90d8">
       <bounds
-          x="300"
+          x="252"
           y="36"
           width="120"
           height="55"/>
