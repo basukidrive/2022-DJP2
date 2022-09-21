@@ -34,10 +34,10 @@
           href="CompositionRelationship_id-5bc129b1de264ee294f71a1458e17334.xml#id-5bc129b1de264ee294f71a1458e17334"/>
     </sourceConnections>
     <bounds
-        x="24"
+        x="96"
         y="204"
-        width="769"
-        height="155"/>
+        width="781"
+        height="181"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-75bbcb9be21e4694acb3c984d418902c"
@@ -46,7 +46,7 @@
           x="24"
           y="52"
           width="169"
-          height="81"/>
+          height="105"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-f196709ac09e4ed99f81ffcabd95d590.xml#id-f196709ac09e4ed99f81ffcabd95d590"/>
@@ -56,10 +56,10 @@
         id="id-960efe14d3964b8bb2c810ac01b1dbeb"
         targetConnections="id-8551249b7ae74b7ea97cb78d6e143695">
       <bounds
-          x="492"
+          x="504"
           y="52"
           width="253"
-          height="81"/>
+          height="105"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-d476041428744d69b21e347653c24a0f.xml#id-d476041428744d69b21e347653c24a0f"/>
@@ -72,7 +72,7 @@
           x="228"
           y="52"
           width="241"
-          height="81"/>
+          height="105"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-1e254112ae3a4baaae0333650102eed2.xml#id-1e254112ae3a4baaae0333650102eed2"/>
