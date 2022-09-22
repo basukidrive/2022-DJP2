@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E.1 Data Layer"
+    id="id-e6e8b6c8aa2e47c5a9a72c07ef3d31ae">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-88980f149b0b44ccb9c36d159929d6f3">
+    <bounds
+        x="156"
+        y="120"
+        width="577"
+        height="457"/>
+    <archimateElement
+        xsi:type="archimate:TechnologyFunction"
+        href="TechnologyFunction_id-b5f79421bedc4fc58db41c9b17692f63.xml#id-b5f79421bedc4fc58db41c9b17692f63"/>
+  </children>
+</archimate:ArchimateDiagramModel>
