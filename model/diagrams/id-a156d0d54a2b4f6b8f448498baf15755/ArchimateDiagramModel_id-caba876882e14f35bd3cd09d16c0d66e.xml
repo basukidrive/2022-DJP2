@@ -377,7 +377,7 @@
           x="24"
           y="36"
           width="91"
-          height="49"/>
+          height="37"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-fca89526ed334084a138922f6f18fdae.xml#id-fca89526ed334084a138922f6f18fdae"/>
@@ -388,7 +388,7 @@
         targetConnections="id-9a1741017d3340c4b31be89ef90a842e">
       <bounds
           x="24"
-          y="96"
+          y="84"
           width="91"
           height="37"/>
       <archimateElement
@@ -400,10 +400,10 @@
         id="id-270fdfcacbba4fcb9f7d6816fcf2f6a9"
         targetConnections="id-84344f0c48db4151a979b0bc99dfc0d6">
       <bounds
-          x="32"
-          y="144"
-          width="76"
-          height="49"/>
+          x="24"
+          y="132"
+          width="91"
+          height="37"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-8e51b05e856a4b42b1749a237b2cbeca.xml#id-8e51b05e856a4b42b1749a237b2cbeca"/>

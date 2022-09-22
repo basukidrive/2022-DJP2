@@ -191,6 +191,20 @@
         id="id-b14b5c5bb3ce4575aa24f08af3f33db8"
         source="id-30b38c93d05f4521a455d34ee39a5149"
         target="id-43a010e00d884a06939a545772a7d734">
+      <bendpoints
+          startY="-63"
+          endX="49"
+          endY="72"/>
+      <bendpoints
+          startX="-24"
+          startY="-63"
+          endX="25"
+          endY="72"/>
+      <bendpoints
+          startX="-48"
+          startY="-63"
+          endX="1"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-48c5af27627a4defb0e8abcc87ce7c73.xml#id-48c5af27627a4defb0e8abcc87ce7c73"/>
@@ -200,6 +214,14 @@
         id="id-56b3dccab847446d8b2ffffce64dd526"
         source="id-30b38c93d05f4521a455d34ee39a5149"
         target="id-3e04ab95f2ec4f69b4d8b0a7f36bc521">
+      <bendpoints
+          startY="-63"
+          endX="-120"
+          endY="72"/>
+      <bendpoints
+          startX="120"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-586bd2653e924172bad1b665b35f432c.xml#id-586bd2653e924172bad1b665b35f432c"/>
@@ -209,6 +231,14 @@
         id="id-422c1494c42f4feb8b149e69e33eb98d"
         source="id-30b38c93d05f4521a455d34ee39a5149"
         target="id-d944a1176e0c4acaa147fcf62fc6e6ab">
+      <bendpoints
+          startY="-63"
+          endX="-288"
+          endY="72"/>
+      <bendpoints
+          startX="288"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-9e3e335c621542c5b91dfb41b39a6bc6.xml#id-9e3e335c621542c5b91dfb41b39a6bc6"/>
@@ -218,6 +248,14 @@
         id="id-6b155d10be9e4d55a6f0d646056e7590"
         source="id-30b38c93d05f4521a455d34ee39a5149"
         target="id-5ba9c8379fe54924bfd02c266dfe81d6">
+      <bendpoints
+          startY="-63"
+          endX="-468"
+          endY="72"/>
+      <bendpoints
+          startX="468"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-e9f60f42ab22441194e753e96b6d1d3a.xml#id-e9f60f42ab22441194e753e96b6d1d3a"/>
@@ -227,6 +265,14 @@
         id="id-8c952fb2996e49f3bfbdb37fe9ce6113"
         source="id-30b38c93d05f4521a455d34ee39a5149"
         target="id-9bd73fe8e76441aab47dfb3f304dea7f">
+      <bendpoints
+          startY="-63"
+          endX="-648"
+          endY="72"/>
+      <bendpoints
+          startX="648"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-29de257009414765831654171f0a487a.xml#id-29de257009414765831654171f0a487a"/>
@@ -236,6 +282,14 @@
         id="id-d1fbc84dd5434fd6a73b6aded6fd04ab"
         source="id-30b38c93d05f4521a455d34ee39a5149"
         target="id-16e05b05c49843c0b02aab77fa40723d">
+      <bendpoints
+          startY="-63"
+          endX="-816"
+          endY="72"/>
+      <bendpoints
+          startX="816"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-0609e25ef44f473eb623e46677f52406.xml#id-0609e25ef44f473eb623e46677f52406"/>
@@ -321,6 +375,14 @@
         id="id-0a34ca4e05bd4b00a6845786885313c8"
         source="id-6c0dbb9486904fff95e38ff7f8698fa8"
         target="id-3e04ab95f2ec4f69b4d8b0a7f36bc521">
+      <bendpoints
+          startY="-63"
+          endX="60"
+          endY="72"/>
+      <bendpoints
+          startX="-60"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-ff14cb57351c44b4ac11e6da86f58007.xml#id-ff14cb57351c44b4ac11e6da86f58007"/>
@@ -330,6 +392,15 @@
         id="id-33126ff90eba4a349ec3861d546ab4ac"
         source="id-6c0dbb9486904fff95e38ff7f8698fa8"
         target="id-43a010e00d884a06939a545772a7d734">
+      <bendpoints
+          startY="-63"
+          endX="229"
+          endY="72"/>
+      <bendpoints
+          startX="-228"
+          startY="-63"
+          endX="1"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-da090fe342f2473386c21e1fc6f64ad1.xml#id-da090fe342f2473386c21e1fc6f64ad1"/>
@@ -339,6 +410,14 @@
         id="id-f82283d376bc4857973b69369b06534e"
         source="id-6c0dbb9486904fff95e38ff7f8698fa8"
         target="id-d944a1176e0c4acaa147fcf62fc6e6ab">
+      <bendpoints
+          startY="-63"
+          endX="-108"
+          endY="72"/>
+      <bendpoints
+          startX="108"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-fed58fda06d74273a7f5f85648c070de.xml#id-fed58fda06d74273a7f5f85648c070de"/>
@@ -348,6 +427,14 @@
         id="id-ad4a4049136946c897977891a7dcf7b1"
         source="id-6c0dbb9486904fff95e38ff7f8698fa8"
         target="id-5ba9c8379fe54924bfd02c266dfe81d6">
+      <bendpoints
+          startY="-63"
+          endX="-288"
+          endY="72"/>
+      <bendpoints
+          startX="288"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-918c6081a4794073931d607d1ebc8f41.xml#id-918c6081a4794073931d607d1ebc8f41"/>
@@ -357,6 +444,14 @@
         id="id-60e7796496df4a7084e487def393f2f0"
         source="id-6c0dbb9486904fff95e38ff7f8698fa8"
         target="id-9bd73fe8e76441aab47dfb3f304dea7f">
+      <bendpoints
+          startY="-63"
+          endX="-468"
+          endY="72"/>
+      <bendpoints
+          startX="468"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-82760f3673a1448a973c212c4f54399a.xml#id-82760f3673a1448a973c212c4f54399a"/>
@@ -366,6 +461,14 @@
         id="id-52452bd437db4cfb87603dba0a9efe30"
         source="id-6c0dbb9486904fff95e38ff7f8698fa8"
         target="id-16e05b05c49843c0b02aab77fa40723d">
+      <bendpoints
+          startY="-63"
+          endX="-636"
+          endY="72"/>
+      <bendpoints
+          startX="636"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-f6106b422cc748ff8928d70b45e51413.xml#id-f6106b422cc748ff8928d70b45e51413"/>
@@ -451,6 +554,14 @@
         id="id-ca29d2346b914974a4c573fe15ef476d"
         source="id-26816fa9ea914abdb04667a0e11c17e0"
         target="id-d944a1176e0c4acaa147fcf62fc6e6ab">
+      <bendpoints
+          startY="-63"
+          endX="72"
+          endY="72"/>
+      <bendpoints
+          startX="-72"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-094406a4fed344c4bb0ba10a7629127b.xml#id-094406a4fed344c4bb0ba10a7629127b"/>
@@ -460,6 +571,14 @@
         id="id-bd709b4821d34844ab1302e8ad52c584"
         source="id-26816fa9ea914abdb04667a0e11c17e0"
         target="id-16e05b05c49843c0b02aab77fa40723d">
+      <bendpoints
+          startY="-63"
+          endX="-456"
+          endY="72"/>
+      <bendpoints
+          startX="456"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-3f7ee65fc0fa4dd8ad018dca31fa17b8.xml#id-3f7ee65fc0fa4dd8ad018dca31fa17b8"/>
@@ -469,6 +588,14 @@
         id="id-72c1b37e45b24be59a6cfa36d2e6051e"
         source="id-26816fa9ea914abdb04667a0e11c17e0"
         target="id-9bd73fe8e76441aab47dfb3f304dea7f">
+      <bendpoints
+          startY="-63"
+          endX="-288"
+          endY="72"/>
+      <bendpoints
+          startX="288"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-790803b9f1a449199d7819485dc1ccb8.xml#id-790803b9f1a449199d7819485dc1ccb8"/>
@@ -478,6 +605,14 @@
         id="id-1466518ab408459bb45c83e2872c33eb"
         source="id-26816fa9ea914abdb04667a0e11c17e0"
         target="id-5ba9c8379fe54924bfd02c266dfe81d6">
+      <bendpoints
+          startY="-63"
+          endX="-108"
+          endY="72"/>
+      <bendpoints
+          startX="108"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-436a65ec41c54af98cac10404cfccdd6.xml#id-436a65ec41c54af98cac10404cfccdd6"/>
@@ -487,6 +622,14 @@
         id="id-f17700bbb3cf457b9d2e95963030fc95"
         source="id-26816fa9ea914abdb04667a0e11c17e0"
         target="id-3e04ab95f2ec4f69b4d8b0a7f36bc521">
+      <bendpoints
+          startY="-63"
+          endX="240"
+          endY="72"/>
+      <bendpoints
+          startX="-240"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-bf3ae7edb9db48a6beaab9ff7db17491.xml#id-bf3ae7edb9db48a6beaab9ff7db17491"/>
@@ -496,6 +639,15 @@
         id="id-fb3cb0af8a00487bb801ac36cc048f21"
         source="id-26816fa9ea914abdb04667a0e11c17e0"
         target="id-43a010e00d884a06939a545772a7d734">
+      <bendpoints
+          startY="-63"
+          endX="409"
+          endY="72"/>
+      <bendpoints
+          startX="-408"
+          startY="-63"
+          endX="1"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-0614946e7f2c4c1a9c518f4e343f251f.xml#id-0614946e7f2c4c1a9c518f4e343f251f"/>
@@ -580,6 +732,14 @@
         id="id-2ab6064fe0f941aebec7890048133eb2"
         source="id-4f807af4dc474f578ed3b09729476116"
         target="id-5ba9c8379fe54924bfd02c266dfe81d6">
+      <bendpoints
+          startY="-63"
+          endX="84"
+          endY="72"/>
+      <bendpoints
+          startX="-84"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-0615d846744e4b54a055f1e872b9a998.xml#id-0615d846744e4b54a055f1e872b9a998"/>
@@ -589,6 +749,14 @@
         id="id-0424d858c2f14499971e070fcddfb229"
         source="id-4f807af4dc474f578ed3b09729476116"
         target="id-9bd73fe8e76441aab47dfb3f304dea7f">
+      <bendpoints
+          startY="-63"
+          endX="-96"
+          endY="72"/>
+      <bendpoints
+          startX="96"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-dbf2b233805e4b0ebd1201328ed37a0f.xml#id-dbf2b233805e4b0ebd1201328ed37a0f"/>
@@ -598,6 +766,14 @@
         id="id-09394a1e15574d65ba4178bccc050b41"
         source="id-4f807af4dc474f578ed3b09729476116"
         target="id-16e05b05c49843c0b02aab77fa40723d">
+      <bendpoints
+          startY="-63"
+          endX="-264"
+          endY="72"/>
+      <bendpoints
+          startX="264"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-30250111561e48e8b3e2bd3b6a6229f8.xml#id-30250111561e48e8b3e2bd3b6a6229f8"/>
@@ -607,6 +783,14 @@
         id="id-edb32c71619e4c3c8f17db7182fefd6e"
         source="id-4f807af4dc474f578ed3b09729476116"
         target="id-d944a1176e0c4acaa147fcf62fc6e6ab">
+      <bendpoints
+          startY="-63"
+          endX="264"
+          endY="72"/>
+      <bendpoints
+          startX="-264"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-bd8fc9089653466f8b1ff9da212b3fbd.xml#id-bd8fc9089653466f8b1ff9da212b3fbd"/>
@@ -616,6 +800,14 @@
         id="id-90659fa7646642528ca057bfd591e838"
         source="id-4f807af4dc474f578ed3b09729476116"
         target="id-3e04ab95f2ec4f69b4d8b0a7f36bc521">
+      <bendpoints
+          startY="-63"
+          endX="432"
+          endY="72"/>
+      <bendpoints
+          startX="-432"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-48ae6fe95e9b4b68a7a35468bbb76c9b.xml#id-48ae6fe95e9b4b68a7a35468bbb76c9b"/>
@@ -625,6 +817,15 @@
         id="id-d6798d3735394d91b186a10a24e24ccf"
         source="id-4f807af4dc474f578ed3b09729476116"
         target="id-43a010e00d884a06939a545772a7d734">
+      <bendpoints
+          startY="-63"
+          endX="601"
+          endY="72"/>
+      <bendpoints
+          startX="-600"
+          startY="-63"
+          endX="1"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-4ceeae0efa06431fb119697043cc70e5.xml#id-4ceeae0efa06431fb119697043cc70e5"/>
@@ -709,6 +910,14 @@
         id="id-3dd803d7f65b4850941eb4cbb5895aa1"
         source="id-0c937e57d7ae44afa846f9f39a4cd9d4"
         target="id-9bd73fe8e76441aab47dfb3f304dea7f">
+      <bendpoints
+          startY="-63"
+          endX="84"
+          endY="72"/>
+      <bendpoints
+          startX="-84"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-6a23b8d1feb14b65ad9a0b38b49cacce.xml#id-6a23b8d1feb14b65ad9a0b38b49cacce"/>
@@ -718,6 +927,14 @@
         id="id-71f21ae3d9324cad84a72e022a8faec0"
         source="id-0c937e57d7ae44afa846f9f39a4cd9d4"
         target="id-16e05b05c49843c0b02aab77fa40723d">
+      <bendpoints
+          startY="-63"
+          endX="-84"
+          endY="72"/>
+      <bendpoints
+          startX="84"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-6aa523e0b53348f6b1d7b7e34e1c4189.xml#id-6aa523e0b53348f6b1d7b7e34e1c4189"/>
@@ -727,6 +944,14 @@
         id="id-f7aee5de00d94468a4546cc365d8c884"
         source="id-0c937e57d7ae44afa846f9f39a4cd9d4"
         target="id-5ba9c8379fe54924bfd02c266dfe81d6">
+      <bendpoints
+          startY="-63"
+          endX="264"
+          endY="72"/>
+      <bendpoints
+          startX="-264"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-931afac4671a48fe8f35c38f1cd82b83.xml#id-931afac4671a48fe8f35c38f1cd82b83"/>
@@ -736,6 +961,14 @@
         id="id-70bdcb3eebb14713b46965b024721ce9"
         source="id-0c937e57d7ae44afa846f9f39a4cd9d4"
         target="id-d944a1176e0c4acaa147fcf62fc6e6ab">
+      <bendpoints
+          startY="-63"
+          endX="444"
+          endY="72"/>
+      <bendpoints
+          startX="-444"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-99b4cb8030564f6d94a0804036765160.xml#id-99b4cb8030564f6d94a0804036765160"/>
@@ -745,6 +978,14 @@
         id="id-38eb149e43c24f5eb92b9d2a12c8f48e"
         source="id-0c937e57d7ae44afa846f9f39a4cd9d4"
         target="id-3e04ab95f2ec4f69b4d8b0a7f36bc521">
+      <bendpoints
+          startY="-63"
+          endX="612"
+          endY="72"/>
+      <bendpoints
+          startX="-612"
+          startY="-63"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-c643018b1cfc4e33806b770cd5bb6c1e.xml#id-c643018b1cfc4e33806b770cd5bb6c1e"/>
@@ -754,6 +995,15 @@
         id="id-9ed2ab13059c48f8ba78bbcd06549d60"
         source="id-0c937e57d7ae44afa846f9f39a4cd9d4"
         target="id-43a010e00d884a06939a545772a7d734">
+      <bendpoints
+          startY="-63"
+          endX="781"
+          endY="72"/>
+      <bendpoints
+          startX="-780"
+          startY="-63"
+          endX="1"
+          endY="72"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-94807c2e1ee04f16b4ebc1666545b303.xml#id-94807c2e1ee04f16b4ebc1666545b303"/>
