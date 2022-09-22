@@ -117,6 +117,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-271757bef9a147759d83da50fb8139b7.xml#id-271757bef9a147759d83da50fb8139b7"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b617d55c60b34492b5bfe5ffaf9f2e67"
+        source="id-5b88bf474e0648539948e8bbeccad747"
+        target="id-1ea56c4deb2349f798a89f0ad43be2bd">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-2808ba012b6c45ad8267548e3cd4b801.xml#id-2808ba012b6c45ad8267548e3cd4b801"/>
+    </sourceConnections>
     <bounds
         x="252"
         y="276"
@@ -127,9 +136,9 @@
         id="id-d7d05c5f69a249e1a39116b2df891b3e"
         targetConnections="id-457db82a42cd46ddaa9401fac81a57ae">
       <bounds
-          x="36"
+          x="24"
           y="36"
-          width="121"
+          width="97"
           height="49"/>
       <archimateElement
           xsi:type="archimate:ApplicationCollaboration"
@@ -140,9 +149,9 @@
         id="id-36ded308f8fa49699bef15c45e596701"
         targetConnections="id-dfb894ca8ebe4d12880464ae57844d8b">
       <bounds
-          x="180"
+          x="132"
           y="36"
-          width="121"
+          width="97"
           height="49"/>
       <archimateElement
           xsi:type="archimate:ApplicationCollaboration"
@@ -153,13 +162,26 @@
         id="id-97017e2cea954017a0eabb56fa8be277"
         targetConnections="id-ddd1b5cd01224a99bb0bde31356fe358">
       <bounds
-          x="324"
+          x="240"
           y="36"
-          width="121"
+          width="85"
           height="49"/>
       <archimateElement
           xsi:type="archimate:ApplicationCollaboration"
           href="ApplicationCollaboration_id-be9b84aace4d43b8b1dc67e5156d3908.xml#id-be9b84aace4d43b8b1dc67e5156d3908"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-1ea56c4deb2349f798a89f0ad43be2bd"
+        targetConnections="id-b617d55c60b34492b5bfe5ffaf9f2e67">
+      <bounds
+          x="336"
+          y="37"
+          width="109"
+          height="48"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationInterface"
+          href="ApplicationInterface_id-24524302cfd543a5985241c46ddbb591.xml#id-24524302cfd543a5985241c46ddbb591"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"
