@@ -387,10 +387,10 @@
         id="id-85a5afedf32d40c085daf76d779965b6"
         targetConnections="id-9a1741017d3340c4b31be89ef90a842e">
       <bounds
-          x="21"
+          x="24"
           y="96"
-          width="97"
-          height="49"/>
+          width="91"
+          height="37"/>
       <archimateElement
           xsi:type="archimate:BusinessActor"
           href="BusinessActor_id-c347491eeac64e2d83ff79550cfb1e3d.xml#id-c347491eeac64e2d83ff79550cfb1e3d"/>
