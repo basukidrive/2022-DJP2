@@ -349,7 +349,7 @@
         x="636"
         y="192"
         width="361"
-        height="625"/>
+        height="601"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e4b6ec27e8e545ccb426927bc8629e85"
@@ -637,9 +637,10 @@
         source="id-1b9147d9ecb24d9c907f1aad98cb3853"
         target="id-cbc711fa337d49f2b7fdb7ea261989cb">
       <bendpoints
-          startX="288"
+          startX="336"
           startY="-12"
-          endY="-318"/>
+          endX="-36"
+          endY="-432"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-e0ceb08070a34f2fb45cc945ee1d42d0.xml#id-e0ceb08070a34f2fb45cc945ee1d42d0"/>
