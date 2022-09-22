@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="B Pengelolaan Administrasi Penerimaan Pajak"
+    name="B.1 Pengelolaan Administrasi Penerimaan Pajak"
     id="id-ff724be5221643bdbba76e90736436dc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
